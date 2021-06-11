@@ -17,3 +17,5 @@ C is also used for mobile and app programming, so if you are interested in those
 Cost is not a factor since all of these languages are free to download and use. Some may incur cost to deploy software publicly for money, but you don't have to worry about that yet. 
 
 Ultimately, I would recommend learning Python or Javascript. This is because they are the easiest to learn as well as very widely used. Once you learn one of them, it will be much easier to learn either Java or one of the C-based languages. (Note: Java and Javascript are not related.) While Ruby is also very easy, it isn't a close to traditional programming languages as Python and Javascript. It therefore, makes it less useful as a language to "jump off" from.
+
+([Home](https://AnneoftheArk.github.io/))
