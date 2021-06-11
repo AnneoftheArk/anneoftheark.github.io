@@ -1,4 +1,4 @@
-## Navigation ([Home](https://AnneoftheArk.github.io/)
+## Navigation
 
 ### My Thoughts
 
