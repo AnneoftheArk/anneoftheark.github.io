@@ -1,20 +1,32 @@
 ## Navigation
 
 ### Learning Resources
+
 #### Python
+
 #### Javascript
+
 #### Ruby
+
 #### Java
+
 #### C/C++
+
 #### C#
 
 ### Introductory Topics
+
 #### Datatypes, Data Storage and Variables
+
 #### Operators
+
 #### Control Statements
+
 #### Functions
 1. Core / Packaged Libraries
 2. User-defined
+3. 
+
 #### Object-oriented Programming (OOP)
 
 ### My Thoughts
