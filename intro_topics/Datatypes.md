@@ -1,0 +1,12 @@
+## Datatypes
+
+What are datatypes you ask? Good question! Datatypes are surprisingly what they sound like.  They refer to the type of data that a language is able to work with: display, store and manipulate. There are a core set you should expect every language to have, but they may handle them differently.  Here's a list of core datatypes that should be available to you:
+* integers-these are whole numbers, or counting numbers. Examples: 1, 2, 3, 85, 4356, 9432689... you get the idea.
+* floating point (decimal)-these have fractional parts. Examples: 1.45, 23.68086, 1.25e-03. The last is scientific notation which is just a way to easily see how big or small a number is. 
+* characters/strings-many languages differentiate between singlar character values and arrays of characters which make up strings. **NOTE: While chars (characters) are generally a core datatype, strings may or may not be a core datatype. Sometimes they are handled through a library.**
+* boolean-these are fun and have a lot of uses. Fancy name, but basically boolean values are True or False (1 or 0). Boolean values let you test conditions.
+* date/time-obviously you know what dates and times are. However, it is good to know that while computers display dates and times in familiar forms, they store them weirdly.  Most store a value that represents the number of seconds since some reference date. It is a floating point number. Generally, you don't have to worry about the specifics, but it is good to know in case your run into issues. **NOTE: sometimes date/times are a core datatype, other times they are handled through a library.**
+
+You should familiarize yourself with the core datatypes of a language. This will make it easier for you to understand other datatypes you find by working with libraries.  Other things about datatypes that you should be aware of:
+* there may be different sizes of a given datatype available. They might be called short and long, or the number of bits might be provided in the name, int8 vs. int32. Different sizes mean that the range of values that can be stored in one size versus another is different. 
+* the language may include signed and unsigned integers (but not floats). Unsigned integers can store higher positive values than signed integers of the same size. They can do this because they only hold positive (>= 0) integers!

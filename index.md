@@ -17,6 +17,7 @@
 ### Introductory Topics
 
 #### Datatypes, Data Storage and Variables
+1. [Datatypes](https://AnneoftheArk.github.io/intro_topics/Datatypes.html)
 
 #### Operators
 
