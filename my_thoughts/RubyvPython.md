@@ -24,7 +24,7 @@ Below I provide two new links that discuss Ruby vs. Python (because someone aske
 * Python is ubiquitous for data science and machine learning
 * Ruby is flexible.
 * Python wins the popularity contest at this point. But Ruby is still being used and needs to be maintained.
-* More Python jobs than Ruby on popular job sights. BUT Ruby shows a better average salary.
+* More Python jobs than Ruby on popular job sites. BUT Ruby shows a better average salary.
 * Both have many libraries and tools that can be used.
 * Python is quicker to learn (and once you learn it Ruby will be easier)
 
